@@ -1,0 +1,16 @@
+body{
+    background-color:#0033ff;
+}
+.not{
+    float: right;
+}
+.button{
+    padding: 1em 4em;
+    font-size:x-large;
+}
+*{
+    cursor:grab;
+}
+#desc:hover{
+    background-color: #00FF66;
+}
